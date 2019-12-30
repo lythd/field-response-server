@@ -1,5 +1,3 @@
-package main;
-
 import java.util.concurrent.ThreadPoolExecutor;
 
 public class RemoveFinished implements Runnable {
