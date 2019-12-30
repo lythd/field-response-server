@@ -1,5 +1,3 @@
-package main;
-
 import java.awt.FlowLayout;
 import java.io.BufferedReader;
 import java.io.IOException;
